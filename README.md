@@ -1,5 +1,6 @@
-欢迎您访问shumouya.github.io鼠某的个人网站！
----------------------
+shumouya.github.com欢迎你！
+-----------（注：本网站是鼠某的个人网站）------------------
+
 
 最新内容：
 
@@ -14,7 +15,7 @@ shumouya.github.io 于2021.1.12更新
 具体更新内容请查看：https://github.com/shumouya/shumouya.github.io/releases/tag/0.1
 
 
-----------------------
+----------------------------------------
 感谢你对鼠某的个人网站 shumouya.github.io 的支持
 
 
