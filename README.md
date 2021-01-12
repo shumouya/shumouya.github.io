@@ -6,8 +6,19 @@
 
 https://survey.163.com/web/htmls/0ew2yo/paper.html
 
-----------------------
 
-我是有底线的
+
+shumouya.github.io 于2021.1.12更新
+具体更新内容请查看：https://github.com/shumouya/shumouya.github.io/releases/tag/0.1
+
+
+----------------------
+感谢你对鼠某的个人网站 shumouya.github.io 的支持
+
+
+
+ 我是有底线的
  
 本网站版权归鼠某所有
+
+当前版本：0.1
